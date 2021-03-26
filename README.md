@@ -5,16 +5,17 @@
 ## Business objectives :
 > “We bring the coolest bargains on the Internet to your mobile”.
 
-InsaneDeals wants to create an experience that users will love where they can find amazing deals and get customized deals at all major e-commerce stores. The main target market for them is 'price-obsessed' consumers who want great brands at insane prices, aged 16-30.
+InsaneDeals wants to create an experience that users will love where they can find amazing offers and get customized deals at all major e-commerce stores. The main target market for them is 'price-obsessed' consumers who want great brands at insane prices, aged around 18-30.
 
 <br>
 
 ## Methodology :
 
-Based on the goals and objectives, 'Personalization' will be the key to the design. And we may further categorize personalization as follows:
+Based on the goals and objectives, 'Personalization' will be the key for this design.
+<br>And we may further categorize personalization as:
 
 - *Persona* based Personalization 
-- Personalization based on the *User Journey*
+- *User Journey* based Personalization
 - Individual-Specific Personalization or *Individualization*
 
 Now, we'll go through them one by one in the exploration phase.
@@ -32,12 +33,12 @@ Fashion is her passion, and she wants to stand out in the crowd. As a young adul
 He earns an above-average salary. He's super tech-savvy. He always keeps up on the latest technology products. He surfs dozens of sites, looking for the best deals, before finalizing a purchase.
 
 - **Riya** (*Sales Head - 30yrs*)<br>
-She isn’t particularly tech-savvy but uses the internet quite often. She mostly buys online to save time. She mostly looks out for classic and well-known brands for her shopping choices.
+She isn’t particularly tech-savvy but uses the internet quite often. She mostly buys online to save time. She preferes to look out for classic and well-known brands for her shopping choices.
 
 <br>
 
 ### User Journey maps
-When a project revolves around e-commerce, user experience research must focus on the journey, the customers take in preparing for, during, and after their online shopping experience. But here in this experience, we will be more focusing on the discovery/searching phase. As our product is here to help the user make a decision for their purchase. Based on the personas, I mapped out their hypothetical experiences through user journeys.
+When a project revolves around e-commerce, user experience research must focus on the journey, the customers take in preparing for, during, and after their online shopping experience. But here in this experience, we will be focusing more on the discovery/searching phase. As our product is here to help the user make a decision for their purchase. Based on the personas, I mapped out their hypothetical experiences through user journeys.
 
 And here are the key takeaways from the User journey maps.
 
@@ -45,12 +46,12 @@ And here are the key takeaways from the User journey maps.
 - I understood how they interacted with similar platforms  
 - I got to know what they expect from a similar platform.  
 - I discovered some of their pain points and found out what they experienced at different stages of the shopping experience.  
-- I compiled some ideas for solving some of the issues.
+- I compiled some ideas for solving some of those issues.
 
 <br>
 
 ### Individualization
-Even though personas and journey maps helped us reach the goal of personalization, they were all still focused on delivering content to a broad segment of users. If we want to provide tailored deals/offers based on customer's preferences, we can't just bucket them into such broad segments. Therefore, we must go for Individualization, a process that will truly personalize customer experiences in a manner that meets specific consumer expectations by simply personalizing to a single segment.
+Even though personas and journey maps helped us reach the goal of personalization, they were all still focused on delivering content to a broad segment of users. If we want to provide tailored deals/offers based on customer's preferences, we can't just bucket them into such broad segments. Therefore, we must go for Individualization, a process that will truly personalize the customer experience in a manner that meets specific consumer expectations by simply personalizing to a single segment.
 >But how did we do that?
 
 As part of my collaboration with Arbor Research’s data and development team, I examined how the company would gather the data for individualization so that our content experiences are tailored to a segment of one, customized in real-time based on actions and preferences uniquely related to that individual’s identity.  
@@ -61,7 +62,11 @@ And the answer was their *machine learning models* and *artificial intelligence 
 
 ## Design Solutions
 
-After collecting all the insights from the exploration phase, I began designing the platform. I started with as basic as paper sketches, to interactive prototypes in this process.
+After collecting all the insights from the exploration phase, I began designing the platform. I started with as basic as paper sketches, to interactive prototypes throughout this process.
+
+
+
+<br>
 
 ## Rename a file
 
