@@ -7,8 +7,20 @@
 
 InsaneDeals wants to create an experience that users will love where they can find amazing deals and get customized deals at all major e-commerce stores. The main target market for them is 'price-obsessed' consumers who want great brands at insane prices, aged 16-30.
 
+
+## Methodology :
+
+Based on the goals and objectives, 'Personalization' will be the key to the design. And we may further categorize personalization as follows:
+
+- Persona-Based Personalization 
+- Personalization Based on the Customer Journey
+- Individual-Specific Personalization or Individualization
+
+Now, we'll go through them one by one in the exploration phase.
+
+
 ## Exploration Phase :
-### Creating User Personas
+### User Personas
 I carried out a number of interviews with people from the target audience and discovered three main personas as the first phase of the product design process.
 
 - **Anita** (*University Student - 19yrs*) <br>
@@ -21,7 +33,7 @@ He earns an above-average salary. He's super tech-savvy. He always keeps up on t
 She isn’t particularly tech-savvy but uses the internet quite often. She mostly buys online to save time. She mostly looks out for classic and well-known brands for her shopping choices.
 <br>
 
-### Creating User Personas
+### User Journey maps
 When a project revolves around e-commerce, user experience research must focus on the journey, the customers take in preparing for, during, and after their online shopping experience. But here in this experience, we will be more focusing on the discovery/searching phase. As our product is here to help the user make a decision for their purchase. Based on the personas, I mapped out their hypothetical experiences through user journeys.
 
 And here are the key takeaways from the User journey maps.
@@ -32,9 +44,10 @@ And here are the key takeaways from the User journey maps.
 - I discovered some of their pain points and found out what they experienced at different stages of the shopping experience.  
 - I compiled some ideas for solving some of the issues.
 
-### Methodology
+### Individualization
+Even though personas and journey maps helped us reach the goal of personalization, they were all still focused on delivering content to a broad segment of users. If we want to provide tailored deals/offers based on customer's preferences, we can't just bucket them into such broad segments. Therefore, we must go for Individualization, a process that will truly personalize customer experiences in a manner that meets specific consumer expectations by simply personalizing to a single segment.
+>But how can we do that?
 
-Based on the goals and objectives, 'Personalization' will be the key to the design. Our aimt 
 
 
 ## Design Solutions
