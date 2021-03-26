@@ -11,13 +11,13 @@ InsaneDeals wants to create an experience that users will love where they can fi
 ### Creating User Personas
 I carried out a number of interviews with people from the target audience and discovered three main personas as the first phase of the product design process.
 
-- **Anita** (*University Student - 19yrs*)
+- **Anita** (*University Student - 19yrs*) <br>
 Fashion is her passion, and she wants to stand out in the crowd. As a young adult, she has to save money to buy designer clothes and accessories. Price is a big deal to her.
 
-- **Rahul** (*iOS Developer - 25yrs*)
+- **Rahul** (*iOS Developer - 25yrs*)<br>
 He earns an above-average salary. He's super tech-savvy. He always keeps up on the latest technology products. He surfs dozens of sites, looking for the best deals, before finalizing a purchase.
 
-- **Riya** (*Sales Head - 30yrs*)
+- **Riya** (*Sales Head - 30yrs*)<br>
 She isn’t particularly tech-savvy but uses the internet quite often. She mostly buys online to save time. She mostly looks out for classic and well-known brands for her shopping choices.
 <br>
 
@@ -34,7 +34,7 @@ And here are the key takeaways from the User journey maps.
 
 ### Methodology
 
-Based on the goals and objectives, 'Personalization' will be the key to the design.
+Based on the goals and objectives, 'Personalization' will be the key to the design. Our aimt 
 
 
 ## Design Solutions
