@@ -1,23 +1,25 @@
-# InsaneDeals - CaseStudy
+<br>
 
-'InsaneDeals' was an e-commerce project I worked on with Arbor Research. InsaneDeals strives to be the ultimate shopping concierge for prospective customers in a market flooded with different choices.
+***InsaneDeals*** was an e-commerce project I worked on with Arbor Research. InsaneDeals strives to be the ultimate shopping concierge for prospective customers in a market flooded with different choices.
 
 ## Business objectives :
 > “We bring the coolest bargains on the Internet to your mobile”.
 
 InsaneDeals wants to create an experience that users will love where they can find amazing deals and get customized deals at all major e-commerce stores. The main target market for them is 'price-obsessed' consumers who want great brands at insane prices, aged 16-30.
 
+<br>
 
 ## Methodology :
 
 Based on the goals and objectives, 'Personalization' will be the key to the design. And we may further categorize personalization as follows:
 
-- Persona-Based Personalization 
-- Personalization Based on the Customer Journey
-- Individual-Specific Personalization or Individualization
+- *Persona* based Personalization 
+- Personalization based on the *User Journey*
+- Individual-Specific Personalization or *Individualization*
 
 Now, we'll go through them one by one in the exploration phase.
 
+<br>
 
 ## Exploration Phase :
 ### User Personas
@@ -31,6 +33,7 @@ He earns an above-average salary. He's super tech-savvy. He always keeps up on t
 
 - **Riya** (*Sales Head - 30yrs*)<br>
 She isn’t particularly tech-savvy but uses the internet quite often. She mostly buys online to save time. She mostly looks out for classic and well-known brands for her shopping choices.
+
 <br>
 
 ### User Journey maps
@@ -44,11 +47,17 @@ And here are the key takeaways from the User journey maps.
 - I discovered some of their pain points and found out what they experienced at different stages of the shopping experience.  
 - I compiled some ideas for solving some of the issues.
 
+<br>
+
 ### Individualization
 Even though personas and journey maps helped us reach the goal of personalization, they were all still focused on delivering content to a broad segment of users. If we want to provide tailored deals/offers based on customer's preferences, we can't just bucket them into such broad segments. Therefore, we must go for Individualization, a process that will truly personalize customer experiences in a manner that meets specific consumer expectations by simply personalizing to a single segment.
->But how can we do that?
+>But how did we do that?
 
+As part of my collaboration with Arbor Research’s data and development team, I examined how the company would gather the data for individualization so that our content experiences are tailored to a segment of one, customized in real-time based on actions and preferences uniquely related to that individual’s identity.  
+  
+And the answer was their *machine learning models* and *artificial intelligence (AI) tools*, which helped us to analyze all available content as well as *real-time* and *historical signals* in order to deliver the best deals and offers to each user.
 
+<br>
 
 ## Design Solutions
 
