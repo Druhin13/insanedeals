@@ -1,6 +1,6 @@
 <br>
 
-***InsaneDeals*** was an e-commerce project I worked on with Arbor Research. InsaneDeals strives to be the ultimate shopping concierge for prospective customers in a market flooded with different choices.
+***InsaneDeals*** is an e-commerce project I worked on with Arbor Research. InsaneDeals strives to be the ultimate shopping concierge for prospective customers in a market flooded with different choices.
 
 ## Business objectives :
 > “We bring the coolest bargains on the Internet to your mobile”.
@@ -64,22 +64,47 @@ And the answer was their *machine learning models* and *artificial intelligence 
 
 After collecting all the insights from the exploration phase, I began designing the platform. I started with as basic as paper sketches, to interactive prototypes throughout this process.
 
+![homepage wireframe](https://raw.githubusercontent.com/Druhin13/insanedeals/main/wireframe2.png)
+
+![product page wireframe](https://raw.githubusercontent.com/Druhin13/insanedeals/main/wireframe1.png)
+
+![enter image description here](https://raw.githubusercontent.com/Druhin13/insanedeals/main/wireframe3.png)
+
+<br>
+
+## Ecommerce Features
+### Product Card Design
+
+We decided to have these key items in the product card :
+
+- Product name  
+- Company name  
+- Discounted Price  
+- Original Price  
+- Discount percentage (Offer)  
+- User Rating
+
+We iterated and tested around 8-10 different variants of product card designs, and finally came up with one that can be reused in both the mobile app & the desktop platform.
+
+We added two more items to the card too:
+
+- Source icon (logo of the e-commerce site from where the offer is) 
+- A share icon (built-in share icon for each product card) 
+
+<br>
+
+### Browsing convenience :
+#### Problem
+While testing our prototypes, we realized that the younger segment of our users found browsing through product photos very time-consuming.
+
+
+#### Solution
+We changed the prototype of the product card design by adding a quick-view solution, a simple carousel that could be used to see all of the product's photos without opening it.
 
 
 <br>
 
-## Rename a file
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
-
-## Export a file
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
+### Product details page experiment :
 
 # Synchronization
 
