@@ -6,6 +6,12 @@
 
 <br>
 
+## Team & Outline:
+
+I joined the team as a UX Intern to help facilitate the design of the project. The 'InsaneDeals' project had a strict timeline and lasted for 4 intense weeks. Throughout the project, I worked directly with the Product Manager and collaborated with the copywriters, developers, and data research team.
+
+<br>
+
 ## Business objectives :
 > “We bring the coolest bargains on the Internet to your mobile”.
 
@@ -124,15 +130,6 @@ After signing up, the user has access to more features, such as :
 - Access to exclusive 'Insane Deals'
 
 
-<br>
-
-
-### Referral system experiment
-
-There was a proposal from the clients to implement an 'Insane Token' that would enable users to unlock deals & obtain additional discounts on certain products. And so here is an example of 2 screens for the referral flow between 2 users.
-
-![enter image description here](https://raw.githubusercontent.com/Druhin13/insanedeals/main/referral.png)
-
 
 <br>
 
@@ -179,6 +176,23 @@ We created an intuitive page that enables users to submit their preferences for 
 ![enter image description here](https://raw.githubusercontent.com/Druhin13/insanedeals/main/preferences.png)
 
 
+
+## Experiments
+
+There were a lot of ideas that passed around the product team and the clients but did not make it into the production phase. Some of them seemed promising with a few tweaks, so we decided to ideate and develop them as experimental concept designs, that can be added to the production phase later down the line if required.
+
+
+<br>
+
+
+### Referral system experiment
+
+There was a proposal from the clients to implement an 'Insane Token' that would enable users to unlock deals & obtain additional discounts on certain products. And so here is an example of 2 screens for the referral flow between 2 users.
+
+![enter image description here](https://raw.githubusercontent.com/Druhin13/insanedeals/main/referral.png)
+
+
+<br>
 
 
 ### Product details page experiment
