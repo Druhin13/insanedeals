@@ -166,6 +166,7 @@ We created an intuitive page that enables users to submit their preferences for 
 <br>
 
 >How did we simplify the training process?
+<br>
 - We ask users to choose a shopping category.  
 - Below the category, we show logos of different brands, which vary from each other (in terms of product style, price range, etc.)  
 - We ask the users to choose at least 3 brands from the list.  
