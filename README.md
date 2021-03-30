@@ -176,6 +176,8 @@ We created an intuitive page that enables users to submit their preferences for 
 - Since their choices got saved automatically, they can now go back to the homepage and get fresh new deals.  
 - They can even return to this page anytime to add brands or change their preferences.
 
+![enter image description here](https://raw.githubusercontent.com/Druhin13/insanedeals/main/preferences.png)
+
 
 
 
