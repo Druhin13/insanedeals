@@ -1,6 +1,10 @@
 <br>
 
+## What is InsaneDeals ?
+
 ***InsaneDeals*** is an e-commerce project I worked on with Arbor Research. InsaneDeals strives to be the ultimate shopping concierge for prospective customers in a market flooded with different choices.
+
+<br>
 
 ## Business objectives :
 > “We bring the coolest bargains on the Internet to your mobile”.
@@ -60,7 +64,7 @@ And the answer was their *machine learning models* and *artificial intelligence 
 
 <br>
 
-## Design Solutions
+## Design Solutions :
 
 After collecting all the insights from the exploration phase, I began designing the platform. I started with as basic as paper sketches, to interactive prototypes throughout this process.
 
@@ -72,7 +76,7 @@ After collecting all the insights from the exploration phase, I began designing 
 
 <br>
 
-## Ecommerce Features
+## Ecommerce Features :
 ### Product Card Design
 
 We decided to have these key items in the product card :
@@ -93,7 +97,7 @@ We added two more items to the card too:
 
 <br>
 
-### Browsing convenience :
+### Browsing convenience
 #### Problem
 While testing our prototypes, we realized that the younger segment of our users found browsing through product photos very time-consuming.
 
@@ -104,7 +108,92 @@ We changed the prototype of the product card design by adding a quick-view solut
 
 <br>
 
-### Product details page experiment :
+
+### Sign up flow
+
+The app leads users to the home page immediately when they install and open it without prompting them to create an account. The platform lets them browse freely.
+
+The users must sign up only if they like the product and want to get the deal. To speed up the process, we used one-tap signups (Google & Facebook).
+
+![enter image description here](https://raw.githubusercontent.com/Druhin13/insanedeals/main/signup%20flow.png)
+
+After signing up, the user has access to more features, such as :
+
+- The ability to set custom alerts
+- The option to like a product deal and save it
+- Access to exclusive 'Insane Deals'
+
+
+<br>
+
+
+### Referral system experiment
+
+There was a proposal from the clients to implement an 'Insane Token' that would enable users to unlock deals & obtain additional discounts on certain products. And so here is an example of 2 screens for the referral flow between 2 users.
+
+![enter image description here](https://raw.githubusercontent.com/Druhin13/insanedeals/main/referral.png)
+
+
+<br>
+
+
+### Sitemap & Menu
+
+Divided the whole map into 3 parts
+- Shopping  
+- Customization  
+- Miscellaneous
+
+The homepage and the categories are grouped together. Notifications and settings reside in the customization group. And finally among the miscellaneous are FAQs, Terms and Conditions, Privacy Policies, Contact Info, etc. The IA of the mobile app was derived from this sitemap too.
+
+![enter image description here](https://raw.githubusercontent.com/Druhin13/insanedeals/main/menu%20ia.png)
+
+![enter image description here](https://raw.githubusercontent.com/Druhin13/insanedeals/main/menu%20bar.png)
+
+
+<br>
+
+
+### Configuring Preferences
+
+The app trains itself, whenever a user takes an action within the app. It can be as simple as searching a product, checking details of a product, or maybe a bit complex like moving back and forth between 2 products.
+In order to improve the efficiency of the training process for deals suggestions, we need the users to provide some details themselves.
+
+This could have been achieved through a survey; however, rather than making it an extensive and boring process, we proposed an approach that is simpler and quicker to use.
+
+We created an intuitive page that enables users to submit their preferences for shopping categories, brands, etc and hence trains the app to show better deals.
+
+<br>
+
+>How did we simplify the training process?
+- We ask users to choose a shopping category.  
+- Below the category, we show logos of different brands, which vary from each other (in terms of product style, price range, etc.)  
+- We ask the users to choose at least 3 brands from the list.  
+- As soon as they select 1 brand, we add a few more brand options (similar to the one they have already selected)  
+- This fast forwards the training process and also helps the user to set their preferences  
+- Since their choices got saved automatically, they can now go back to the homepage and get fresh new deals.  
+- They can even return to this page anytime to add brands or change their preferences.
+
+
+
+
+### Product details page experiment
+
+While designing the product details page, we decided to customize the page for each product, by having a visual continuity throughout the page. Let me show an example.
+
+![enter image description here](https://raw.githubusercontent.com/Druhin13/insanedeals/main/visual%20continuity%201.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Synchronization
 
