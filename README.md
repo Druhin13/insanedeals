@@ -170,6 +170,7 @@ We created an intuitive page that enables users to submit their preferences for 
 - We ask users to choose a shopping category.  
 - Below the category, we show logos of different brands, which vary from each other (in terms of product style, price range, etc.)  
 - We ask the users to choose at least 3 brands from the list.  
+- For added convenience, we included a brand search option too.  
 - As soon as they select 1 brand, we add a few more brand options (similar to the one they have already selected)  
 - This fast forwards the training process and also helps the user to set their preferences  
 - Since their choices got saved automatically, they can now go back to the homepage and get fresh new deals.  
