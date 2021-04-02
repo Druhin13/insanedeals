@@ -86,7 +86,7 @@ After collecting all the insights from the exploration phase, I began designing 
 
 ## UI Design :
 ### Color palette and style
-The idea was to make the app friendly and easy to use, so we used a minimal visual style with rounded corners, and subtle shadows to show the depth of clickable items throughout the UI design. We did some experiments with the usage of accent colors to follow a seamless visual style. Will be talking about it, later in the case study.
+The idea was to make the app friendly and easy to use, so we used a minimal visual style with rounded corners, and subtle shadows to show the depth of clickable items throughout the UI design. We did some experiments with the usage of accent colors to follow a seamless visual style. Will be talking about it, later in the case study. Overall, the user interface design was centered on simplicity, intuitiveness, and readability as core issues of a positive user experience.
 
 <br>
 
