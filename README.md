@@ -6,7 +6,7 @@
 
 <br>
 
-## Team & Outline:
+## Team & Outline :
 
 I joined the team as a UX Intern to help facilitate the design of the project. The 'InsaneDeals' project had a strict timeline and lasted for 4 intense weeks. Throughout the project, I worked directly with the Product Manager and collaborated with the copywriters, developers, and data research team.
 
@@ -196,11 +196,11 @@ We created an intuitive page that enables users to submit their preferences for 
 
 
 
-# Desktop designs
+# Desktop designs :
 
 <br>
 
-# Experiments
+# Experiments :
 
 There were a lot of ideas that passed around the product team and the clients but did not make it into the production phase. Some of them seemed promising with a few tweaks, so we decided to ideate and develop them as experimental concept designs, that can be added to the production phase later down the line if required.
 
@@ -236,5 +236,5 @@ While designing the product details page, we decided to customize the page for e
 
 
 
-# Takeaway
+# Takeaway :
 
