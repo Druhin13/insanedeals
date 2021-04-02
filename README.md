@@ -138,6 +138,17 @@ After signing up, the user has access to more features, such as :
 - Access to exclusive 'Insane Deals'
 
 
+<br>
+
+
+### Share interaction
+
+We designed an integrated share button right within the product card to speed up the sharing process. Pressing and holding the share button will bring up a list of social media sharing options, along with a 'more' button that launches the default sharing dialog of the OS. This works on the desktop platform too, with a hover interaction.
+
+![enter image description here](https://raw.githubusercontent.com/Druhin13/insanedeals/main/share.png)
+
+![enter image description here](https://raw.githubusercontent.com/Druhin13/insanedeals/main/share%20interaction.gif)
+
 
 <br>
 
