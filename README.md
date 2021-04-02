@@ -80,9 +80,17 @@ After collecting all the insights from the exploration phase, I began designing 
 
 ![enter image description here](https://raw.githubusercontent.com/Druhin13/insanedeals/main/wireframe3.png)
 
+
+
 <br>
 
-## Ecommerce Features :
+## UI Design :
+### Color palette and style
+The idea was to make the app friendly and easy to use, so we used a minimal visual style with rounded corners, and subtle shadows to show the depth of clickable items throughout the UI design. We did some experiments with the usage of accent colors to follow a seamless visual style. Will be talking about it, later in the case study.
+
+<br>
+
+## Designed Features :
 ### Product Card Design
 
 We decided to have these key items in the product card :
