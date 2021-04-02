@@ -237,4 +237,6 @@ While designing the product details page, we decided to customize the page for e
 
 
 # Takeaway :
+Within 4 weeks, we provided our clients with a vision about how exactly the app will work, its features, and what it will do to create a better user experience.
 
+I really enjoyed working on this project, exploring shopping behaviors, getting to know how design influences user's choice, and especially as it was the first time I was so closely involved with the development and data team, understanding the foundations of training an ML model; selecting offers/deals for a user based on specific characteristics.
