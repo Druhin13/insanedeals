@@ -1,6 +1,6 @@
 <br>
 
-## What is InsaneDeals ?
+# What is InsaneDeals ?
 
 ***InsaneDeals*** is an e-commerce project I worked on with Arbor Research. InsaneDeals strives to be the ultimate shopping concierge for prospective customers in a market flooded with different choices.
 
@@ -32,8 +32,8 @@ Now, we'll go through them one by one in the exploration phase.
 
 <br>
 
-## Exploration Phase :
-### User Personas
+# Exploration Phase :
+## User Personas
 I carried out a number of interviews with people from the target audience and discovered three main personas as the first phase of the product design process.
 
 - **Anita** (*University Student - 19yrs*) <br>
@@ -47,7 +47,7 @@ She isn’t particularly tech-savvy but uses the internet quite often. She mostl
 
 <br>
 
-### User Journey maps
+## User Journey maps
 When a project revolves around e-commerce, user experience research must focus on the journey, the customers take in preparing for, during, and after their online shopping experience. But here in this experience, we will be focusing more on the discovery/searching phase. As our product is here to help the user make a decision for their purchase. Based on the personas, I mapped out their hypothetical experiences through user journeys.
 
 And here are the key takeaways from the User journey maps.
@@ -60,7 +60,7 @@ And here are the key takeaways from the User journey maps.
 
 <br>
 
-### Individualization
+## Individualization
 Even though personas and journey maps helped us reach the goal of personalization, they were all still focused on delivering content to a broad segment of users. If we want to provide tailored deals/offers based on customer's preferences, we can't just bucket them into such broad segments. Therefore, we must go for Individualization, a process that will truly personalize the customer experience in a manner that meets specific consumer expectations by simply personalizing to a single segment.
 >But how did we do that?
 
@@ -70,7 +70,7 @@ And the answer was their *machine learning models* and *artificial intelligence 
 
 <br>
 
-## Design Solutions :
+# Design Solutions :
 
 After collecting all the insights from the exploration phase, I began designing the platform. I started with as basic as paper sketches, to interactive prototypes throughout this process.
 
@@ -185,7 +185,7 @@ We created an intuitive page that enables users to submit their preferences for 
 
 
 
-## Experiments
+# Experiments
 
 There were a lot of ideas that passed around the product team and the clients but did not make it into the production phase. Some of them seemed promising with a few tweaks, so we decided to ideate and develop them as experimental concept designs, that can be added to the production phase later down the line if required.
 
@@ -193,7 +193,7 @@ There were a lot of ideas that passed around the product team and the clients bu
 <br>
 
 
-### Referral system experiment
+## Referral system experiment
 
 There was a proposal from the clients to implement an 'Insane Token' that would enable users to unlock deals & obtain additional discounts on certain products. And so here is an example of 2 screens for the referral flow between 2 users.
 
@@ -203,7 +203,7 @@ There was a proposal from the clients to implement an 'Insane Token' that would 
 <br>
 
 
-### Product details page experiment
+## Product details page experiment
 
 While designing the product details page, we decided to customize the page for each product, by having a visual continuity throughout the page. Let me show an example.
 
@@ -221,7 +221,7 @@ While designing the product details page, we decided to customize the page for e
 
 
 
-# Synchronization
+# Takeaway
 
 Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
 
